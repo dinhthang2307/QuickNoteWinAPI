@@ -1,0 +1,6 @@
+LIBRARY
+"QuickNoteDLL.Dll"
+
+EXPORTS
+_doInstallHook @1
+_doRemoveHook @2
