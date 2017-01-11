@@ -1,7 +1,6 @@
 ﻿  stdafx.cpp
   dllmain.cpp
   QuickNoteDLL.cpp
-d:\visual studio 2015\projects\winapiprograming\ultimateproject\finalproject\quicknotedll\quicknotedll.cpp(39): warning C4715: 'Dialog1Proc': not all control paths return a value
 QuickNoteDLL.def(2): warning LNK4017: "QuickNoteDLL.Dll" statement not supported for the target platform; ignored
      Creating library D:\Visual Studio 2015\Projects\WinAPIPrograming\UltimateProject\FinalProject\x64\Debug\QuickNoteDLL.lib and object D:\Visual Studio 2015\Projects\WinAPIPrograming\UltimateProject\FinalProject\x64\Debug\QuickNoteDLL.exp
   QuickNoteDLL.vcxproj -> D:\Visual Studio 2015\Projects\WinAPIPrograming\UltimateProject\FinalProject\x64\Debug\QuickNoteDLL.dll

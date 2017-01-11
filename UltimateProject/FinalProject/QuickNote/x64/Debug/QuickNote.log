@@ -1,3 +1,4 @@
 ﻿  QuickNote.cpp
+d:\visual studio 2015\projects\winapiprograming\ultimateproject\finalproject\quicknote\quicknote.cpp(316): warning C4715: 'Dialog2_WndProc': not all control paths return a value
   QuickNote.vcxproj -> D:\Visual Studio 2015\Projects\WinAPIPrograming\UltimateProject\FinalProject\x64\Debug\QuickNote.exe
   QuickNote.vcxproj -> D:\Visual Studio 2015\Projects\WinAPIPrograming\UltimateProject\FinalProject\x64\Debug\QuickNote.pdb (Full PDB)
